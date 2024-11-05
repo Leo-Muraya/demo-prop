@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "location": "Nairobi"
+        },
+        {
+            "id": 2,
+            "name": "Jane Doe",
+            "location": "Dubai"
+        },
+        {
+            "id": 3,
+            "name": "Steve Jobs",
+            "location": "Somali"
+        }
+    ]
+}
